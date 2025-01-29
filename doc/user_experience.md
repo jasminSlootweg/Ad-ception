@@ -1,44 +1,28 @@
-### About/Opening Page:
-[About](./ux_images/About.png "About")
+# Team Expectations
 
-### Listings Page:
-[Listings](https://github.com/EECS3311F24/project-bargainbox/tree/main/doc/sprint0/ux_images/listings.png "Listings")
+## Team Members:
+##### Jasmin Slootweg : jazz20 : jasmin42@my.yorku.ca
+##### Mohammad Hossain : Ivvzy101 : sadman31@my.yorku.ca
+##### Saina Shishegar : sante2080 : saina20@yorku.ca
 
-### Listings/product_id Page:
-[Product Detail](https://github.com/EECS3311F24/project-bargainbox/tree/main/doc/sprint0/ux_images/product_detail.png "Product Detail")
+## Group Charter
+#### Methods of Communication:
+##### Primary communication: Discord (mutual server).
+##### Backup communication: Email or text (for important matters or in case of Discord issues).
 
-### Orders Page:
-[Orders](https://github.com/EECS3311F24/project-bargainbox/tree/main/doc/sprint0/ux_images/orders.png "Orders")
+### Communication Response Times:
+##### Discord: Aim to respond within 8 hours on weekdays, 12 hours on weekends.
+##### Email: Aim to respond within 8 hours. 
 
-### Saved items Page:
-[Saved items](https://github.com/EECS3311F24/project-bargainbox/tree/main/doc/sprint0/ux_images/saved_items.png "Saved items")
+### Meeting Attendance:
+##### Regular meetings: 7pm on Wednesdays
+##### Notice for absences: Notify the team at least 24 hours in advance, if possible. 
 
-### Account Page:
-[Account](https://github.com/EECS3311F24/project-bargainbox/tree/main/doc/sprint0/ux_images/account.png "Account")
+### Running Meetings:
+##### Location: Meetings will be held in-person/ on Discord (voice or video).
+##### Agenda: The team will collectively decide an agenda. 
+##### Minutes: All members will jot down important notes and share them on Discord for reference. 
 
-#### BargainBox Opening Page:
-
-When a user visits BargainBox, they will be greeted with our **About Page** where they can read information about BargainBox and its product
-
-#### Listings Page: 
-
-When both registered and non-registered users click it, they will be able to see all products listed in this page.
-
-* In the **Listings Page**, users can choose their location (limited to only Greater Toronto Area) and it will display all products in this specific location.
-* In the **Listings Page**, users can choose their desired categories and it will display all products in these specific categories.
-* In the **Listings Page**, users can choose a product from listing and BargainBox will show them full details (including seller’s profile) in the subsequent link with the product’s unique ID
-** Only registered users can see the profile of the seller
-** Only registered users can see and post the reviews of the seller
-
-#### Orders Page:
-
-If a registered user visit this page, it will show them all their listings on BargainBox
-
-#### Saved items:
-
-If a registered user visit this page, it will show them all their saved items on BargainBox
-
-#### Account:
-
-* This is where users can register or log into their account and view their profile
-* This is where registered users can see their posted reviews
+### Meeting Preparation:
+##### Preparation needed: Members should review relevant material and bring their assigned tasks or updates.
+##### What to prepare: Individual progress updates, questions for discussion, and any resources that will assist in decision-making.
