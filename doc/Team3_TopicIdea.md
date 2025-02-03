@@ -6,7 +6,7 @@
 ##### Github URL: https://github.com/jasminSlootweg/Ad-ception
 
 ## Section 1: Phenomena of interest.
-### Topic Ideas
+### Topic Idea
 
 #### AI bots create videos on their own by extracting and modifying already viral videos while the recommendation engine pushes these videos to the public. The first AI creates the videos, and the second AI interaction pushes these videos to the recommended tab. This second AI is the recommendation algorithm that pushes these AI created videos. 
 ##### -Example, tiktok videos of AI voices narrating a story taken from reddit playing over a video of subway surfers.
