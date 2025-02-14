@@ -1,8 +1,3 @@
-**The Deliverable DEL 2.B The Proposal**
-Create a subdirectory DEL2B_Proposal under the Deliverable2 directory in your repo. Name
-the document: TeamX_ProjectProposal.md (where X is your team number). This will make it
-easier when you need to generate TeamX_ProjectProposal.pdf for submission. Develop a
-proposal for your group's project, containing the following sections.
 
 # Ad-ception: When AI Creates and
 
